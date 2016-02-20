@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\bin\Debug\While.exe.config
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\obj\Debug\While.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\bin\Debug\While.exe
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\bin\Debug\While.pdb
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\obj\Debug\While.exe
+C:\Users\Viktor\Documents\GitHub\C#\Homeworks\While\While\obj\Debug\While.pdb
