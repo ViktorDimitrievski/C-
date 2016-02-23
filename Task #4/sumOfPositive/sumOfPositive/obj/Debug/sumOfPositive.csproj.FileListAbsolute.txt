@@ -1,0 +1,1 @@
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\sumOfPositive\sumOfPositive\bin\Debug\sumOfPositive.exe.config

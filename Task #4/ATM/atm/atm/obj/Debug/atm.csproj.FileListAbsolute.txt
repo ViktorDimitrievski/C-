@@ -1,0 +1,6 @@
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Debug\atm.exe.config
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\obj\Debug\atm.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Debug\atm.exe
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Debug\atm.pdb
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\obj\Debug\atm.exe
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\obj\Debug\atm.pdb

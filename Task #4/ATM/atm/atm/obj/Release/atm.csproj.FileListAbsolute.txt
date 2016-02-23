@@ -1,0 +1,5 @@
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Release\atm.exe.config
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Release\atm.exe
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\bin\Release\atm.pdb
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\obj\Release\atm.exe
+C:\Users\Viktor\Documents\GitHub\C#\Task #4\ATM\atm\atm\obj\Release\atm.pdb
